@@ -1,0 +1,3 @@
+This folder will contain generated alembic migration scripts.
+
+Use `alembic revision --autogenerate -m "create initial tables"` to create a new migration.

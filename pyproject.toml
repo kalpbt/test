@@ -1,0 +1,18 @@
+[project]
+name = "test"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "pandas>=2.3.3",
+    "pymupdf>=1.26.6",
+    "SQLAlchemy>=2.0",
+    "psycopg[binary]>=3.1",
+    "python-dotenv>=1.0.0",
+    "alembic>=1.11",
+    "fastapi>=0.100",
+    "uvicorn[standard]>=0.22",
+    "sqlmodel>=0.0.8",
+    "asyncpg>=0.27",
+]
