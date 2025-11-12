@@ -1,6 +1,6 @@
 ProcureMind — PostgreSQL integration and ORM models
 
-This repository contains a minimal Python project with SQLAlchemy ORM models and a small DB wiring for the ProcureMind presentation flow (Projects, BOQ items, rate cache, vendors, RFQs, quotes, and agent runs).
+This repository contains a minimal Python project with SQLAlchemy ORM models and a small DB wiring for the ProcureMind flow (Projects, BOQ items, rate cache, vendors, RFQs, quotes, and agent runs).
 
 Quickstart (Windows PowerShell)
 
